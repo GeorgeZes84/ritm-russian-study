@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="#6655cf"/>
+  <text x="22" y="46" fill="#fff" font-family="Arial,sans-serif" font-weight="800" font-size="40">Р</text>
+  <path d="M51 7l2.2 5.8L59 15l-5.8 2.2L51 23l-2.2-5.8L43 15l5.8-2.2z" fill="#ffc08e"/>
+</svg>
+
